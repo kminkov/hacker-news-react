@@ -1,0 +1,18 @@
+{
+  "name": "reactjs_hacker_news_clone",
+  "version": "0.0.1",
+  "author": "Kaloian Minkov",
+  "description": "Hacker news clone using ReactJS and React Router",
+  "dependencies": {
+    "react": "latest",
+    "react-router": "latest",
+    "reactify": "latest",
+    "reflux": "latest"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "watchify": "latest",
+    "gulp": "latest",
+    "vinyl-source-stream": "latest"
+  }
+}
