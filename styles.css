@@ -1,0 +1,106 @@
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+#header{
+	height: 20px;
+	line-height: 12pt;
+	background: #ff6600;
+	padding:2px;
+}
+#logo {
+	background-image: url('https://news.ycombinator.com/y18.gif');
+	width:18px;
+	height:18px;
+	border:1px #ffffff solid;
+	float:left;
+}
+
+div.title{
+	float:left;
+	margin-left:5px;
+}
+
+div.title a{
+	font-family: Verdana,Geneva,sans-serif;
+    font-size: 10pt;
+    color:#000;
+    text-decoration:none;
+    font-weight:bold;
+}
+div#header {
+	width:85%;
+	margin:0 auto;
+	padding:5px;
+}
+div#content {
+	background-color:#f6f6ef;
+	margin:0 auto;
+	margin-top:-5px;
+	padding:5px;
+	padding-top:0;
+	width:85%;
+}
+h2.postTitle {
+	margin:5px 0;
+}
+h2.postTitle a{
+	font-family: Verdana,Geneva,sans-serif;
+    font-size: 10pt;
+    color:#000;
+    text-decoration:none;
+    font-weight: normal;
+}
+.postInfo {
+	margin-left:20px;
+}
+.postInfo, .postInfo a{
+	font-size: 7pt;
+	color: #828282;
+    font-family: Verdana,Geneva,sans-serif;
+}
+.postInfo a {
+	margin-left:5px;
+}
+
+.comhead {
+    color: #828282;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 8pt;
+}
+
+.comhead a:link, .subtext a:visited {
+    color: #828282;
+}
+
+.commentsList {
+	margin-top:20px;
+
+}
+.commentsList .commentsList {
+	margin-left:30px;
+	margin-top:10px;
+}
+.comment{
+	font-family: Verdana,Geneva,sans-serif;
+    font-size: 9pt;
+    margin-left:20px;
+    margin-top:5px;
+}
+.votearrow {
+    background: rgba(0, 0, 0, 0) url("https://news.ycombinator.com/grayarrow.gif") no-repeat scroll 0 0;
+    border: 0 none;
+    height: 10px;
+    margin: 6px 5px;
+    width: 10px;
+    float:left;
+} 
+.reply {
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 9pt;
+	margin-left:15px;
+}
+
+div.userProfile{
+	margin-top:5px;
+}
